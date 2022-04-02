@@ -1,0 +1,21 @@
+#Anna Orlova#
+###Juniur Frontend Developer###
+###Contacts###
+- Location: Prague, Czech Republic
+- GitHub: [AnnetOrlova](https://github.com/AnnetOrlova)
+- Phone: +420 111 111 111
+###Skills###
+- HTML
+- CSS
+- JavaScript
+- Git
+- Figma
+- Photoshop, After Effects, Blender
+###Education###
+- Moscow State University of Technology "STANKIN" - Faculty of Information Technology - Engineer
+- The Rolling Scopes - Javascript/Front-end - In Process
+###Skills###
+###Languages###
+- English - B2
+- Czech - A1
+- Russian - native
