@@ -1,1 +1,1 @@
-https://AnnetOrlova.github.io/rsschool-cv/cv
+https://AnnetOrlova.github.io/rsschool-cv/
