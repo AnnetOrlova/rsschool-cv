@@ -1,0 +1,25 @@
+
+.left {
+
+    float: left;
+    width: 30%;
+   
+}
+.right {
+    
+    width: 70%;
+    
+
+}
+
+.flex-container {
+    display: flex;
+  }
+  .header {
+      background-color: rgb(2, 172, 115);
+      width: 100%;
+  }
+  .ul {
+      
+      margin-top: 0px;
+  }
